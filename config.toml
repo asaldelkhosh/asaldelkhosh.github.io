@@ -10,9 +10,6 @@ paginate = "10" # Number of posts per page
 # DEFAULT SETTINGS
 #-------------------------------------------------------------------------------
 
-# Default Theme
-theme= "gruvhugo"
-
 # Default Post Extension
 defaultExtension= "html"
 
