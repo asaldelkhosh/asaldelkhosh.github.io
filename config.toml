@@ -29,9 +29,9 @@ metaDataFormat= "yaml"
   name = "asal_delkhosh"
   img = "https://avatars.githubusercontent.com/u/89270190?v=4"
   img_title = "Thanks to Amirhossein @ wocintechchat.com for this photo."
-  icon = "static/images/logo.png"
+  icon = "./static/images/logo.png"
   quote = "A nice quote that you like that describes the beautiful person you are."
-  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  description= "I am 22 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran. I work as a Data Scientist and ML Engineer. As a Computer Science student I'm intrested in data science and computational intelligence topics. But I started my career as a graphics designer 😇 . I'm a professional designer with 3 years of experience. I used to teach Adobe Illustrator when I was younger 😎 ."
   licenseUrl = ""
 
  # Social icons
@@ -72,9 +72,9 @@ metaDataFormat= "yaml"
     url        = "about"
 
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "post/"
+    identifier = "research"
+    name       = "Research"
+    url        = "research/"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
