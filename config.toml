@@ -71,6 +71,11 @@ metaDataFormat= "yaml"
     identifier = "research"
     name       = "Research"
     url        = "research/"
+  
+  [[menu.main]]
+    identifier = "education"
+    name       = "Education"
+    url        = "education/"
 
 [markup]
   defaultMarkdownHandler = "goldmark"

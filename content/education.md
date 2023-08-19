@@ -1,14 +1,11 @@
 +++
-title = "About"
+title = "Education"
 description = "My personal website"
 date = "2023-07-28"
 aliases = ["profile", "biography", "webpage"]
 author = "Asal Delkhosh"
 +++
 
-## My research interests
+## Education
 
-- Machine Learning
-- Data Science
-- Data Analysis
-- Data Mining
+- Bachlour Degree (Mathematics and Computer Scince) Amirkabir University of Tehran
