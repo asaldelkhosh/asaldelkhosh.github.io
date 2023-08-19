@@ -30,15 +30,11 @@ metaDataFormat= "yaml"
   img = "https://avatars.githubusercontent.com/u/89270190?v=4"
   img_title = "Thanks to Amirhossein @ wocintechchat.com for this photo."
   icon = "./static/images/logo.png"
-  quote = "A nice quote that you like that describes the beautiful person you are."
+  quote = "Stay puffy and love amir"
   description= "I am 22 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran. I work as a Data Scientist and ML Engineer. As a Computer Science student I'm intrested in data science and computational intelligence topics. But I started my career as a graphics designer 😇 . I'm a professional designer with 3 years of experience. I used to teach Adobe Illustrator when I was younger 😎 ."
   licenseUrl = ""
 
  # Social icons
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/avron/gruvhugo"
-
   [[params.social]]
     name = "email"
     url  = "mailto:mail@mail.com"
@@ -68,7 +64,7 @@ metaDataFormat= "yaml"
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "Profile"
     url        = "about"
 
   [[menu.main]]
