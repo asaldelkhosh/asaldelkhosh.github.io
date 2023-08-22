@@ -14,7 +14,6 @@
         {{else}}
           {{ range .Pages}}
             <div class="post-item">
-              {{if eq .Section "post"}}
                 <well class="well">
                   <h3><a class="link" href="{{.Permalink}}">{{.Title}}</a>
                     {{ if .Params.Author }}
@@ -27,8 +26,7 @@
                         {{end}}
                     </span>
                     <p>{{ .Summary }}</p>
-                </well>
-                {{end}}            
+                </well>          
             </div><br>
           {{end}}
         {{end}}
