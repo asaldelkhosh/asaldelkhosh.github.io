@@ -30,8 +30,8 @@ metaDataFormat= "yaml"
   img = "https://avatars.githubusercontent.com/u/89270190?v=4"
   img_title = "Thanks to Amirhossein @ wocintechchat.com for this photo."
   icon = "./static/images/logo.png"
-  quote = "😄 Hi, my name is Asal"
-  description= "I am 22 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran. I work as a Data Scientist and ML Engineer."
+  quote = "Genius is one percent inspiration and ninety-nine percent perspiration."
+  description= "Hi, my name is Asal Delkhosh. I am 22 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran. I work as a Data Scientist and ML Engineer."
   licenseUrl = ""
 
  # Social icons
