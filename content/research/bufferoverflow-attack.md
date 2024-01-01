@@ -1,7 +1,7 @@
 +++
-author = "Asal Delkhosh and Amirhossein Najafizadeh"
+author = "Asal Delkhosh, Amirhossein Najafizadeh"
 title = "Hacking computer memory with C, Buffer Overflow Attack"
-date = "2023-02-06"
+date = "2022-02-06"
 description = "Attacking systems with bufferoverflow method"
 tags = [
     "system security",

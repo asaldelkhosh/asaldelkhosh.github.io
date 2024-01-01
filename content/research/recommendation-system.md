@@ -1,7 +1,7 @@
 +++
 author = "Asal Delkhosh"
 title = "Routes recommendation system"
-date = "2023-07-31"
+date = "2023-04-03"
 description = "Implementing a recommendation system for adding economical routes in transportation applications from users search results on map"
 tags = [
     "recommendation system",
