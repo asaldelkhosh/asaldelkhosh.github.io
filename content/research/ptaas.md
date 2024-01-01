@@ -1,7 +1,7 @@
 +++
 author = "Asal Delkhosh, Prof. Sadeghian"
 title = "ML: penetration testing model"
-date = "2023-12-15"
+date = "2023-11-15"
 description = "Implementing a machine learning model for automated penetration testing."
 tags = [
     "machine learning",
