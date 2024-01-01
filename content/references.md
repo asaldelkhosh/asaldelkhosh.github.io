@@ -1,9 +1,20 @@
 +++
 title = "References"
-description = "My personal website"
-date = "2023-07-28"
-aliases = ["profile", "biography", "webpage"]
+description = "My academic advisors"
+date = "2024-01-01"
+aliases = ["academic", "references"]
 author = "Asal Delkhosh"
 +++
 
 ## References
+
+My references are people who I work with during my academic journey. We had a research collaboration
+or I was their teaching assistant.
+
+- Dr. Salari Jaeeni
+- Prof. Abbaszadeh
+- Prof. Imanifar
+- Prof. Sadeghian
+- Dr. Yousefimehr
+- Prof. Amir Mazlaghani
+- Prof. Nazerfard

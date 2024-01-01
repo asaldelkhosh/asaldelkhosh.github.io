@@ -1,8 +1,8 @@
 +++
 title = "Profile"
-description = "My personal website"
-date = "2023-07-28"
-aliases = ["profile", "biography", "webpage"]
+description = "My personal page"
+date = "2024-01-01"
+aliases = ["profile", "biography"]
 author = "Asal Delkhosh"
 +++
 
