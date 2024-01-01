@@ -6,7 +6,7 @@ aliases = ["profile", "biography", "webpage"]
 author = "Asal Delkhosh"
 +++
 
-## Biography
+## Whoami?
 
 I am 22 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran. I work as a Data Scientist and ML Engineer. As a Computer Science student I'm intrested in data science and computational intelligence topics. I'm drawn to pattern recognition, prediction, and detection. Additionally, I'm enthusiastic about harnessing mathematics to refine machine-learning models. But I started my career as a graphics designer 😇 . I'm a professional designer with 3 years of experience. I used to teach Adobe Illustrator when I was younger 😎 .
 
