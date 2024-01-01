@@ -57,7 +57,7 @@ metaDataFormat= "yaml"
   [[menu.main]]
     identifier = "about"
     name       = "Profile"
-    url        = "about"
+    url        = "profile/"
 
   [[menu.main]]
     identifier = "research"
