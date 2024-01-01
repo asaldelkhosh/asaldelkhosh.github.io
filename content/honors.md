@@ -1,15 +1,21 @@
 +++
 title = "Honors"
-description = "My personal website"
-date = "2023-07-28"
-aliases = ["profile", "biography", "webpage"]
+description = "My honors and awards"
+date = "2024-01-01"
+aliases = ["honors", "awards"]
 author = "Asal Delkhosh"
 +++
 
 ## Honors & Awards
 
-### awards
+### Awards
 
-- Rank student, Among 10 percent of Mathematics and Computer Science graduated students
+- Rank student, Among 10 percent of all 2023 __Mathematics and Computer Science__ graduated students
   - at Amirkabir unversity of Tehran
-- Among top 20 percent of participators in The national entrance exam of Iranian universities
+- Among top 5 percent of participators in the __national entrance exam of Iranian universities__
+
+## Honors
+
+- Staff at the 12th Amirkabir Linux Festival, Computer Engineering department
+- Staff at Computer Webinar Series (aka CWS) in Computer Science Department
+- Staff at the Mathematical Nights in Computer Science department
