@@ -1,4 +1,4 @@
-baseurl = "https://examplesite.com/"
+baseurl = "https://asaldelkhosh.github.io/"
 title = "Asal Delkhosh"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -25,35 +25,27 @@ metaDataFormat= "yaml"
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
   headerTitle = "Asal Delkhosh"
-  copyright = "© 2023 Asal Delkhosh.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
+  copyright = "© 2024 Asal Delkhosh.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">All rights reserved</a>."
   name = "asal_delkhosh"
   img = "https://avatars.githubusercontent.com/u/89270190?v=4"
-  img_title = "Thanks to Amirhossein @ wocintechchat.com for this photo."
+  img_title = "My github profile picture"
   icon = "./static/images/logo.png"
   quote = "Genius is one percent inspiration and ninety-nine percent perspiration."
-  description= "Hi, my name is Asal Delkhosh. I am 22 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran. I work as a Data Scientist and ML Engineer."
+  description= "Hi, my name is Asal Delkhosh. I am a 23 years old Mathematics and Computer Science student at Amirkabir University of Technology. My major fields are Data Science and Machine Learning. I have observed the profound impact of Machine Learning, Data Mining, and Data Science across various facets of our existence which inspired my deeper exploration into these domains."
   licenseUrl = ""
 
  # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:mail@mail.com"
-
-  [[params.social]]
-    name = "gpg"
-    url  = "https://keys.openpgp.org/"
-
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "mailto:asaldelkhosh@mail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/asaldelkhosh"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/asaldelkhosh/"
 
 [params.style]
   # add path to custom CSS files here
@@ -74,8 +66,18 @@ metaDataFormat= "yaml"
   
   [[menu.main]]
     identifier = "education"
-    name       = "Education and Awards"
+    name       = "Education"
     url        = "education/"
+  
+  [[menu.main]]
+    identifier = "references"
+    name       = "References"
+    url        = "references/"
+  
+  [[menu.main]]
+    identifier = "honors"
+    name       = "Honors"
+    url        = "honors/"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
