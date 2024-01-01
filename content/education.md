@@ -1,26 +1,28 @@
 +++
 title = "Education"
-description = "My personal website"
-date = "2023-07-28"
-aliases = ["profile", "biography", "webpage"]
+description = "My academic educations"
+date = "2024-01-01"
+aliases = ["academic", "educations"]
 author = "Asal Delkhosh"
 +++
 
-## Education and Awards
+## Educations
 
-In this page you can see my educational degress and personal awards.
+I ranked within the top 5% in the __Iran's national university entrance__ exam and secured admission to the Mathematics and Computer Science Department at __Amirkabir University of Technology__, one of Iran's top three universities. I chose Mathematics as my major, but as I delved deeper into the subject, I uncovered its strong ties to Computer Science. Recognizing how my mathematical understanding could enrich my grasp of CS, I opted for a minor in Computer Science.
 
-### education
+### Undergraduate
 
-- Mathematics and Computer Science bachelor degree
+- Mathematics and Computer Science Bachelors
+  - Math and Computer Science department
   - at Amirkabir university of Tehran
-  - 2019-2023
-- Mathematics and physics diploma
+  - 2019-2024
+- Computer Science Minor
+  - Math and Computer Science department
+  - at Amirkabir university of Tehran
+  - 2021-2024
+
+### Diploma
+
+- Mathematics and Physics diploma
   - at Imam Hossein School of Mashhad
   - 2016-2019
-
-### awards
-
-- Rank student, Among 10 percent of Mathematics and Computer Science graduated students
-  - at Amirkabir unversity of Tehran
-- Among top 20 percent of participators in The national entrance exam of Iranian universities
